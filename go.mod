@@ -1,4 +1,4 @@
-module go-common
+module github.com/Torrrrrrr/go-common
 
 go 1.22.5
 
